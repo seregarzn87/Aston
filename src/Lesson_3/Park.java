@@ -84,7 +84,7 @@ public class Park {
         park.print();
         System.out.println("Название аттракциона: " + attractions.info);
         System.out.println("Время работы: " + attractions.workingHours);
-        System.out.println("Цена: " + attractions.price);
+        System.out.println("Цена: " + attractions.price + " рублей");
     }
 
 }
