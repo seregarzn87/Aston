@@ -3,6 +3,7 @@ package Lesson_4_1;
 public class Cat extends Animal {
     String name;
     static int countCat = 0;
+    public int eatsFood = 60;
 
     Cat(String name) {
         super();
